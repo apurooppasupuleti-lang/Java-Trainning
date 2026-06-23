@@ -1,0 +1,5 @@
+com\northernarc\springbootdemo\dao\MovieDao.class
+Model\Movie.class
+com\northernarc\springbootdemo\Controller\SpringController.class
+com\northernarc\springbootdemo\entity\Movie.class
+com\northernarc\springbootdemo\Controller\SpringbootdemoApplication.class
